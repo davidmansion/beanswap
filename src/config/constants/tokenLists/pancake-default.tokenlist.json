@@ -1,0 +1,62 @@
+{
+  "name": "BeanSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://beanswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "BEANS",
+      "symbol": "BEANS",
+      "address": "0x91A46Fbf7D7a41f296457c937C782113078700b0",
+      "chainId": 535037,
+      "decimals": 18,
+      "logoURI": "https://beanswap.finance/images/tokens/0x91A46Fbf7D7a41f296457c937C782113078700b0.png"
+    },
+    {
+      "name": "WBESC Token",
+      "symbol": "WBESC",
+      "address": "0xBE864aA7e4F802B7F7a3be2Dc388b9D96E3f434c",
+      "chainId": 535037,
+      "decimals": 18,
+      "logoURI": "https://beanswap.finance/images/tokens/0xBE864aA7e4F802B7F7a3be2Dc388b9D96E3f434c.png"
+    },
+    {
+      "name": "ShibBeans",
+      "symbol": "ShibB",
+      "address": "0x33D7B3331c3140f67e8ABF97D0a9B79e28842f74",
+      "chainId": 535037,
+      "decimals": 18,
+      "logoURI": "https://beanswap.finance/images/tokens/0xBE864aA7e4F802B7F7a3be2Dc388b9D96E3f434c.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xb16908bF752CDff7D6540005d93BAEc60592eDe4",
+      "chainId": 535037,
+      "decimals": 18,
+      "logoURI": "https://beanswap.finance/images/tokens/0xb16908bF752CDff7D6540005d93BAEc60592eDe4.png"
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0xc83c23DC1749C06db0e151BEAb55F2772E4d4bd2",
+      "chainId": 535037,
+      "decimals": 18,
+      "logoURI": "https://beanswap.finance/images/tokens/0xc83c23DC1749C06db0e151BEAb55F2772E4d4bd2.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xf89060c99853Bb52eaF5F2247D007d73de660252",
+      "chainId": 535037,
+      "decimals": 18,
+      "logoURI": "https://beanswap.finance/images/tokens/0xf89060c99853Bb52eaF5F2247D007d73de660252.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.container{
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.item{
+  display: flex;
+justify-content: center;
+align-items: center;
+height: auto;
+padding:25px;
+border-radius: 40px;
+width: 100%;
+color: #fff;
+font-size: 4em;
+}
